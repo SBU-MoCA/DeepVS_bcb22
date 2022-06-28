@@ -1,0 +1,32 @@
+
+model:
+  name: conv_attn_torch_tsrrhr_v
+  in_ch: 150
+  out_ch: 32
+  kernel_size: 3
+  stride: 1
+  padding: 1
+  n_head: 8
+  conv_layer_num: 2
+  attn_layer_num: 1
+  feats: ['spec_seq', 'tmpo_seq',]
+
+
+num_epochs: 100
+batch_size: 64
+workers_per_gpu: 8
+
+criterion:
+  name: mse
+
+optimizer:
+  name: adam
+  lr: 5.0e-4
+  weight_decay: 1.0e-4
+
+scheduler:
+  name: constant
+
+pdb: False
+
+device: gpu
