@@ -1,4 +1,7 @@
-# DeepVS_BCB2022
+# DeepVS ACM-BCB 2022
+
+This repo contains the PyTorch implementation of DeepVS model introduced in the paper DeepVS: A Deep Learning Approach For RF-based Vital Signs Sensing.
+
 ## Repo structure
 
 The repository structure is described below. 
