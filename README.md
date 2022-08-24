@@ -33,7 +33,7 @@ and Health Informatics (BCB ’22), August 7–10, 2022, Northbrook, IL, USA.
 ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/3535508.3545554
 ```
 
-Other papers related to automated model design:
+Other papers related to RF-based vital signs monitoring:
 
 - VitalHub: Robust, Non-Touch Multi-User Vital Signs Monitoring using Depth Camera-Aided UWB ([IEEE ICHI 2021](https://ieeexplore.ieee.org/abstract/document/9565710))
 
