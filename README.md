@@ -21,7 +21,7 @@ The repository structure is described below.
 
 ## Acknowledgement
 
-This model design was built based on the codebase [healthcare-dev](https://github.com/mit-han-lab/healthcare-dev) maintained by [Hanrui Wang](https://hanruiwang.me/) from [MIT Prof Han's Lab](https://tinyml.mit.edu/).
+This model design was built based on the codebase [healthcare-dev](https://github.com/mit-han-lab/healthcare-dev) maintained by [Hanrui Wang](https://hanruiwang.me/) from [MIT Prof Han's Lab](https://hanlab.mit.edu/).
 
 ## Reference
 If you find the repo useful, please kindly cite our paper:
